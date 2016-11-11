@@ -1,0 +1,52 @@
+/***************************************
+GENERAL 
+***************************************/
+
+body {
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    text-align: left;
+}
+
+#wrapper {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+
+/***************************************
+NAVIGATION
+***************************************/
+
+nav {
+    text-align: right;
+    margin: 0 5%;
+}
+
+/***************************************
+FOOTER
+***************************************/
+
+#logo {
+    text-align: center;
+    margin: 0;
+}
+
+a {
+    color: #A9A9A9;
+}
+
+p {
+    color: #A9A9A9;
+}
+
+#tablefooter {
+    text-align: left;
+    width: 50%;
+    margin-left: 0;
+    
+}
